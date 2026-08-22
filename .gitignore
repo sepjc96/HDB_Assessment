@@ -3,6 +3,7 @@
 
 # Exported datasets
 export/
+anaconda_projects/
 
 # Python cache
 __pycache__/
